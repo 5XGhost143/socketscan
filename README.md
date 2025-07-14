@@ -4,4 +4,4 @@
 
 # WARNING
 
-**NOTE: if u have Windows u have the option to use my Installer it's false postive bc it's built with pyinstaller u can see the Source Code on https://github.com/5XGhost143/5XInstaller also u can decompile the Installer bc it's built as I said with pyinstaller**
+**NOTE: If youre using Windows, you have the option to use my installer. It may trigger a false positive because the shortcuts are created using WScripts. You can review the source code here: https://github.com/5XGhost143/5XInstaller. Also, since the installer is built with PyInstaller, you can decompile it to verify its contents.**
